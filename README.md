@@ -1,4 +1,6 @@
 # Excelerate-Data-Visualization-Internship-Project
-In this project, I collaborated with a team of 7 to analyze and visualize data from the Marketing team at GlobalShala to help them make cost-saving recommendations for their ad campagains to the Finance team. I also created a compelling presentation for the Finance team using thoughtful data analysis, informative data visualization and creative presentation design.  
+In this project, I collaborated with a team of seven to analyze and visualize marketing data for GlobalShala, delivering cost-saving recommendations on ad campaigns to the Finance team. I also designed and presented a compelling report, combining thoughtful analysis, clear visualizations, and effective presentation design to support better budget decisions.  
 
-
+## Worked done so far
+## Week 1
+As part of the Data Visualization team, I collaborated with colleagues to perform exploratory data analysis and build visual dashboards that revealed key insights from the Marketing team’s ad campaign data. This analysis helped identify underperforming campaigns that should be discontinued, enabling the company to reduce unnecessary ad spend and reallocate the budget more effectively.
